@@ -1,4 +1,8 @@
 ### Data Viz Project
 
-This project ....
+This project use the reticulate package to scrape data on islands from wikipedia.
+
+It shows that Sweden, Norway and Finland have the largest number of islands.
+
+![](islands.png)
 
