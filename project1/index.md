@@ -6,7 +6,7 @@
 
 In the wake of COVID-19, EU banks have experienced a notable surge in deposits from June 2017 to June 2021. This period highlighted the potential for significant financial growth and stability through strategic marketing and customer engagement practices. Traditional telemarketing methods, however, have not kept pace with the evolving landscape, often resulting in inefficient and ineffective client acquisition efforts.
 
-![EU Deposit Trends](eu-deposit-trends.png)
+![EU Deposit Trends](images/eu-deposit-trends.png)
 
 *Fig 1. EU deposit trend by geography*
 
@@ -23,6 +23,7 @@ The core challenge for Portuguese banks lies in modernizing their telemarketing 
 
 ## Data Understanding and Preparation
 
+![](2.png)
 The dataset comprises 41,188 client records from Portuguese banking telemarketing campaigns, featuring 20 input attributes and a binary target variable indicating the outcome (subscription to a term deposit).
 
 ### Data Exploration Insights
