@@ -1,4 +1,4 @@
-**A. Introduction - Bank Marketing** 
+***A. Introduction - Bank Marketing***
 
 **1. Background and Motivation:**
 
@@ -24,7 +24,7 @@ Portuguese banks must adapt to new strategies and utilise machine learning for p
 
 Thus, the bank's promotional activities must be enhanced to increase efficiency and effectiveness by devising a machine-learning model to identify clients' responses to term deposit marketing campaigns.
 
-**B. Data Understanding and Preparation**
+***B. Data Understanding and Preparation***
 
 **1. Data Characteristics:**
 
@@ -64,7 +64,7 @@ The correlation heatmap reveals duration as the most correlated feature with tar
 
 ![](Aspose.Words.6735ed54-9301-4272-bfc2-c0b766553c11.014.png)![](Aspose.Words.6735ed54-9301-4272-bfc2-c0b766553c11.015.png)
 
-**C. Model Design and Result Illustration**
+***C. Model Design and Result Illustration***
 
 **1. Model Design:**
 
@@ -184,7 +184,7 @@ All models were constructed using Google Colab, ensuring a seamless environment 
 
 Random forest, with the highest accuracy score, is the most effective model for identifying potential clients to subscribe to term deposits. It estimates key variables for classification, crucial for targeted marketing, resource optimisation, and client interaction personalisation. The model's accuracy on the test set is approximately 88.2%.
 
-**D. Discussion & Concluding Remark**
+***D. Discussion & Concluding Remark***
 
 **1. Summary and Implications:**
 
