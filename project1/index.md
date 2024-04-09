@@ -6,7 +6,7 @@
 
 In the wake of COVID-19, EU banks have experienced a notable surge in deposits from June 2017 to June 2021. This period highlighted the potential for significant financial growth and stability through strategic marketing and customer engagement practices. Traditional telemarketing methods, however, have not kept pace with the evolving landscape, often resulting in inefficient and ineffective client acquisition efforts.
 
-![EU Deposit Trends](images/eu-deposit-trends.png)
+![EU Deposit Trends](eu-deposit-trends.png)
 
 *Fig 1. EU deposit trend by geography*
 
