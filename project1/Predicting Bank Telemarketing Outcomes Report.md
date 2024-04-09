@@ -1,6 +1,6 @@
-***A. Introduction - Bank Marketing***
+# A. Introduction - Bank Marketing
 
-**1. Background and Motivation:**
+## 1. Background and Motivation:
 
 EU banks experienced a deposit surge from June 2017 to June 2021, particularly post-COVID. The deposit increase was driven by increased savings and reduced spending due to uncertainty about the economy's future. (*Europe Bank Deposits After COVID-19*, n.d.). 
 
@@ -14,7 +14,7 @@ Fig 2. Data-driven marketing maturity statistics (Marous, 2022) illustrate that 
 
 Banks continue to utilise telemarketing for product and service promotion, but this method is often inefficient, time-consuming, and ineffective in acquiring new clients.
 
-**2. Business Problem:**
+## 2. Business Problem:
 
 Portuguese banks must adapt to new strategies and utilise machine learning for predictive insights to enhance their ability to promote term deposits and compete with the rest of EU banks.
 
@@ -24,15 +24,15 @@ Portuguese banks must adapt to new strategies and utilise machine learning for p
 
 Thus, the bank's promotional activities must be enhanced to increase efficiency and effectiveness by devising a machine-learning model to identify clients' responses to term deposit marketing campaigns.
 
-***B. Data Understanding and Preparation***
+# B. Data Understanding and Preparation
 
-**1. Data Characteristics:**
+## 1. Data Characteristics:
 
 The dataset contains 41,188 bank client records, including 20 input attributes, with a target variable labeled "y" indicating term deposit subscription with no missing values but 12 duplicate rows have been identified. The dataset comprises both numeric and categorical attributes. 
 
 ![](Aspose.Words.6735ed54-9301-4272-bfc2-c0b766553c11.004.png)![](Aspose.Words.6735ed54-9301-4272-bfc2-c0b766553c11.005.png)	 ![](Aspose.Words.6735ed54-9301-4272-bfc2-c0b766553c11.006.png) 
 
-**2. Data Exploration:**
+## 2. Data Exploration:
 
 `	 `![](Aspose.Words.6735ed54-9301-4272-bfc2-c0b766553c11.007.png)
 
