@@ -1,22 +1,3 @@
-﻿![](Aspose.Words.6735ed54-9301-4272-bfc2-c0b766553c11.001.png)
-
-**AIB504**
-
-**Machine Learning in Business**
-
-**Group-based Assignment**
-
-**July Semester 2023**
-
-**Group Members:**
-
-**Leader: THNG CHEE SING (B2270173)** 
-**SER JIE HUI (Y0805238) 
-HENG MING EN (WANG MING'EN) (B2272487) 
-LIU KAILIANG (B2372684)**
-
-**Submission Date: 24 October 2023**
-
 **A. Introduction - Bank Marketing** 
 
 **1. Background and Motivation:**
