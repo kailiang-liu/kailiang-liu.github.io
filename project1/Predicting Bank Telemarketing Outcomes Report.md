@@ -6,7 +6,7 @@ EU banks experienced a deposit surge from June 2017 to June 2021, particularly p
 
 ![](Aspose.Words.6735ed54-9301-4272-bfc2-c0b766553c11.002.png)![](Aspose.Words.6735ed54-9301-4272-bfc2-c0b766553c11.003.png)
 
-<a name="_heading=h.gjdgxs"></a>Fig 1						     	Fig 2
+<a name="_heading=h.gjdgxs"></a>
 
 Fig. 1. EU deposit trend by geography regarding trillion (*Europe Bank Deposits After COVID-19*, n.d.)
 
